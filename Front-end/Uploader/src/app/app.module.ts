@@ -4,6 +4,8 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { FileUploadComponent } from './file-upload/file-upload.component';
+import { FileServerService } from './services/file-server.service';
+import { HttpModule } from '@angular/http';
 
 
 @NgModule({
@@ -12,9 +14,9 @@ import { FileUploadComponent } from './file-upload/file-upload.component';
     FileUploadComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule, HttpModule
   ],
-  providers: [],
+  providers: [FileServerService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

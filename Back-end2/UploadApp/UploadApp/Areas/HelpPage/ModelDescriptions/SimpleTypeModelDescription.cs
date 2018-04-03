@@ -1,0 +1,6 @@
+namespace UploadApp.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
