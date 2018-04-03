@@ -1,0 +1,10 @@
+E:\FontesAngular\UploadAngular4\Back-end\bin\Debug\netcoreapp2.0\Back-end.deps.json
+E:\FontesAngular\UploadAngular4\Back-end\bin\Debug\netcoreapp2.0\Back-end.runtimeconfig.json
+E:\FontesAngular\UploadAngular4\Back-end\bin\Debug\netcoreapp2.0\Back-end.runtimeconfig.dev.json
+E:\FontesAngular\UploadAngular4\Back-end\bin\Debug\netcoreapp2.0\Back-end.dll
+E:\FontesAngular\UploadAngular4\Back-end\bin\Debug\netcoreapp2.0\Back-end.pdb
+E:\FontesAngular\UploadAngular4\Back-end\obj\Debug\netcoreapp2.0\Back-end.csproj.CoreCompileInputs.cache
+E:\FontesAngular\UploadAngular4\Back-end\obj\Debug\netcoreapp2.0\Back-end.AssemblyInfoInputs.cache
+E:\FontesAngular\UploadAngular4\Back-end\obj\Debug\netcoreapp2.0\Back-end.AssemblyInfo.cs
+E:\FontesAngular\UploadAngular4\Back-end\obj\Debug\netcoreapp2.0\Back-end.dll
+E:\FontesAngular\UploadAngular4\Back-end\obj\Debug\netcoreapp2.0\Back-end.pdb
